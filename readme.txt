@@ -6,4 +6,5 @@ I am a real gay
 =======
 I am a bad gay
 >>>>>>> dev
-I will be a better gay 
+I will be a better gay
+--no-f 
